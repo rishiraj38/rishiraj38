@@ -39,7 +39,8 @@
 </p>
 
 ---
-
+[![An image of @rishiraj38's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishiraj38)](https://holopin.io/@rishiraj38)
+---
 ### 📫 Connect with Me:
 
 <p align="center">
