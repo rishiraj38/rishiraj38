@@ -19,11 +19,31 @@
 
 ---
 
-### 🚀 Tech I Work With:
+### 💻 Tech I Work With:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,js,git,github,tensorflow,py,sklearn" />
 </p>
+
+---
+
+### 🌸 Achievements
+
+<div align="center">
+
+  <br/>
+
+  <a href="https://holopin.io/@rishiraj38" target="_blank">
+    <img src="https://holopin.me/rishiraj38" alt="@rishiraj38's Holopin badges" width="700"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://hacktoberfest.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hacktoberfest-2025-%23FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF00FF" alt="Hacktoberfest Badge">
+  </a>
+
+</div>
 
 ---
 
@@ -39,8 +59,7 @@
 </p>
 
 ---
-[![An image of @rishiraj38's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishiraj38)](https://holopin.io/@rishiraj38)
----
+
 ### 📫 Connect with Me:
 
 <p align="center">
@@ -51,15 +70,6 @@
 
 ---
 
-### 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 </div>
-
-
-
-
-
-
-
