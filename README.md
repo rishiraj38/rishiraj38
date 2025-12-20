@@ -22,7 +22,7 @@
 ### 💻 Tech I Work With:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,js,git,github,aws,cloudflare,mongodb,prisma,docker,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,js,git,github,aws,cloudflare,mongodb,prisma,docker,redux,jest" />
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hono-logo.svg" height="48" alt="Hono Logo" />
 </p>
 
