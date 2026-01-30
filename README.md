@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  FullStack Developer 
+  Web Developer | Frontend Engineer (React)
 </p>
 
 ---
 
 ## Profile
 
-I am a B.Tech student at **Newton School of Technology** with a strong interest in frontend engineering and web application development.  
-I focus on building clean, maintainable user interfaces and actively contribute to open-source projects while strengthening my backend and system fundamentals.
+I am a B.Tech student at **Newton School of Technology** with a strong focus on frontend engineering and web application development.  
+I enjoy building clean, maintainable user interfaces and contributing to open-source projects while strengthening my backend and system fundamentals.
 
 ---
 
@@ -65,10 +65,8 @@ I focus on building clean, maintainable user interfaces and actively contribute 
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishiraj38&show_icons=true&theme=tokyonight&hide_border=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj38&theme=tokyonight&hide_border=true" width="45%">
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishiraj38&show_icons=true&theme=tokyonight&hide_border=true" width="45%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj38&theme=tokyonight&hide_border=true" width="45%"> </p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiraj38&layout=compact&theme=tokyonight&hide_border=true" width="45%"> </p>
 
 ---
 
