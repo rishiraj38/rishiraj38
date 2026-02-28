@@ -22,7 +22,7 @@ I enjoy building clean, maintainable user interfaces and contributing to open-so
 - React, Redux, Tailwind CSS
 
 **Backend**
-- Node.js, Hono, Flask, Express 
+- Node.js, Hono, Flask, Express, Go
 - REST APIs, JWT-based authentication
 
 **Databases**
