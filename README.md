@@ -10,8 +10,9 @@
 
 ## Profile
 
-I am a B.Tech student at **Newton School of Technology** with a strong focus on frontend engineering and web application development.  
-I enjoy building clean, maintainable user interfaces and contributing to open-source projects while strengthening my backend and system fundamentals.
+I am a B.Tech student at **Newton School of Technology** passionate about building scalable, high-performance web applications.  
+My work spans full-stack development, with a growing focus on DevOps, system design, and AI-driven solutions, while also exploring Web3 technologies.  
+I enjoy turning complex problems into clean, efficient systems and continuously improving through hands-on projects and open-source contributions.
 
 ---
 
