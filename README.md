@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Web Developer | Frontend Engineer (React)
+  Full Stack Developer | DevOps & AI Enthusiast | Exploring Web3
 </p>
 
 ---
@@ -17,25 +17,33 @@ I enjoy building clean, maintainable user interfaces and contributing to open-so
 
 ## Technical Skills
 
-**Frontend**
+### Frontend
 - HTML, CSS, JavaScript  
-- React, Redux, Tailwind CSS
+- React, Redux, Tailwind CSS  
 
-**Backend**
-- Node.js, Hono, Flask, Express, Go
-- REST APIs, JWT-based authentication
+### Backend
+- Node.js, Express, Hono, Flask  
+- REST APIs, JWT-based authentication  
 
-**Databases**
+### Languages
+- JavaScript, Python, Go  
+
+### Databases
 - PostgreSQL, MySQL, MongoDB  
-- Prisma ORM
+- Prisma ORM  
 
-**Data / ML**
-- Python, NumPy, Pandas  
-- scikit-learn, TensorFlow
+### Data / ML
+- NumPy, Pandas  
+- scikit-learn, TensorFlow  
 
-**Tools & Platforms**
-- Git, GitHub, Docker  
-- Postman, Figma, AWS
+### DevOps / Cloud
+- Docker, Kubernetes  
+- Prometheus, Grafana  
+- AWS  
+
+### Tools
+- Git, GitHub  
+- Postman, Figma  
 
 ---
 
