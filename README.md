@@ -72,10 +72,26 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 
 ---
 
-## GitHub Activity
+## 🚀 GitHub Activity
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishiraj38&show_icons=true&theme=tokyonight&hide_border=true" width="45%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj38&theme=tokyonight&hide_border=true" width="45%"> </p> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiraj38&layout=compact&theme=tokyonight&hide_border=true" width="45%"> </p>
+<div align="center" 
+     style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 32px;">
+
+  <img 
+    style="min-width: 320px; max-width: 400px; height: auto;" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishiraj38&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,PLpgSQL&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=0d1117&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&cache_seconds=1800" 
+    alt="Top Languages" 
+  />
+
+  <img 
+    style="min-width: 320px; max-width: 400px; height: auto;" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj38&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" 
+    alt="GitHub Streak Stats" 
+  />
+
+</div>
+
+<br><br>
 
 ---
 
