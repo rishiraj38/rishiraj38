@@ -19,32 +19,47 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 ## Technical Skills
 
 ### Frontend
-- HTML, CSS, JavaScript  
-- React, Redux, Tailwind CSS  
+
+* HTML, CSS, JavaScript
+* React, Redux Toolkit, Tailwind CSS
 
 ### Backend
-- Node.js, Express, Hono, Flask  
-- REST APIs, JWT-based authentication  
+
+* Node.js, Express, Hono, Flask
+* Go (Golang)
+* REST APIs, JWT-based authentication
+* WebSockets (real-time communication)
+* WebRTC (peer-to-peer communication basics)
 
 ### Languages
-- JavaScript, Python, Go  
+
+* JavaScript, Python, Go
 
 ### Databases
-- PostgreSQL, MySQL, MongoDB  
-- Prisma ORM  
+
+* PostgreSQL, MySQL, MongoDB
+* Prisma ORM
+
+### Caching & Messaging
+
+* Redis (caching, Pub/Sub)
 
 ### Data / ML
-- NumPy, Pandas  
-- scikit-learn, TensorFlow  
+
+* NumPy, Pandas
+* scikit-learn, TensorFlow
 
 ### DevOps / Cloud
-- Docker, Kubernetes  
-- Prometheus, Grafana  
-- AWS  
+
+* Docker, Kubernetes
+* Prometheus, Grafana
+* AWS
 
 ### Tools
-- Git, GitHub  
-- Postman, Figma  
+
+* Git, GitHub
+* Postman, Figma
+
 
 ---
 
