@@ -54,6 +54,7 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 * Docker, Kubernetes
 * Prometheus, Grafana
 * AWS
+* OCI, ORAS
 
 ### Tools
 
