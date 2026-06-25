@@ -110,7 +110,7 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 
 <tr>
 <td colspan="2" align="center">
-<img src="https://github.com/rishiraj38/rishiraj38/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/rishiraj38/rishiraj38/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </td>
 </tr>
 
