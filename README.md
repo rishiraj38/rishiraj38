@@ -87,27 +87,39 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 - Consistent GitHub activity  
 
 ---
-
 ## 🚀 GitHub Activity
 
-<div align="center" 
-     style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 32px;">
+<div align="center">
 
-  <img 
-    style="min-width: 320px; max-width: 400px; height: auto;" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishiraj38&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,PLpgSQL&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=0d1117&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&cache_seconds=1800" 
-    alt="Top Languages" 
-  />
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=rishiraj38&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+</td>
 
-  <img 
-    style="min-width: 320px; max-width: 400px; height: auto;" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj38&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" 
-    alt="GitHub Streak Stats" 
-  />
+<td align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rishiraj38&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,PLpgSQL&title_color=ffffff&text_color=ffffff&icon_color=79ff97&bg_color=0d1117&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishiraj38&background=0d1117&border=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6b35&sideLabels=79ff97&dates=ffffff" alt="GitHub Streak Stats" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github.com/rishiraj38/rishiraj38/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</td>
+</tr>
+
+</table>
 
 </div>
 
 <br><br>
+
 
 ---
 
