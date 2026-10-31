@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="465" height="245" viewBox="0 0 465 245" font-family="Segoe UI, Ubuntu, -apple-system, sans-serif">
+<rect x="0.5" y="0.5" width="464" height="244" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="38" fill="#ffffff" font-size="18" font-weight="600">GitHub Stats</text>
+<circle cx="31" cy="67" r="4" fill="#79ff97"/><text x="45" y="72" fill="#8b949e" font-size="14">Commits (last year)</text><text x="440" y="72" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">1.7k</text>
+<circle cx="31" cy="92" r="4" fill="#79ff97"/><text x="45" y="97" fill="#8b949e" font-size="14">PRs reviewed (last year)</text><text x="440" y="97" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">419</text>
+<circle cx="31" cy="117" r="4" fill="#79ff97"/><text x="45" y="122" fill="#8b949e" font-size="14">Pull requests</text><text x="440" y="122" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">200</text>
+<circle cx="31" cy="142" r="4" fill="#79ff97"/><text x="45" y="147" fill="#8b949e" font-size="14">PRs merged</text><text x="440" y="147" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">146</text>
+<circle cx="31" cy="167" r="4" fill="#79ff97"/><text x="45" y="172" fill="#8b949e" font-size="14">Merge rate</text><text x="440" y="172" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">73%</text>
+<circle cx="31" cy="192" r="4" fill="#79ff97"/><text x="45" y="197" fill="#8b949e" font-size="14">Issues opened</text><text x="440" y="197" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">105</text>
+<circle cx="31" cy="217" r="4" fill="#79ff97"/><text x="45" y="222" fill="#8b949e" font-size="14">Stars earned</text><text x="440" y="222" fill="#ffffff" font-size="14" font-weight="600" text-anchor="end">6</text>
+</svg>
