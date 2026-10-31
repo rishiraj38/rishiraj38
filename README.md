@@ -16,6 +16,62 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 
 ---
 
+## Experience
+
+<table>
+<tr>
+<td width="90" align="center" valign="top">
+  <a href="https://lfx.linuxfoundation.org/tools/mentorship/" target="_blank">
+    <img src="https://github.com/cncf.png" width="64" alt="CNCF" />
+  </a>
+</td>
+<td valign="top">
+
+### LFX Mentee — CNCF / Meshery
+**Models Support for OCI Registries** · Linux Foundation Mentorship · *2026 Term 2*
+
+Built support for storing and distributing Meshery models through OCI registries, so models can be pushed and pulled like container images.
+
+- Implemented OCI/ORAS-based model registry support in Meshery
+- Worked hands-on with the OCI spec: blobs, manifests, digests, media types and multi-platform images
+- Shipped the work through reviews with Meshery maintainers and mentors
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI-262261?style=flat-square&logo=opencontainersinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/ORAS-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td width="90" align="center" valign="top">
+  <a href="https://github.com/meshery" target="_blank">
+    <img src="https://github.com/meshery.png" width="64" alt="Meshery" />
+  </a>
+</td>
+<td valign="top">
+
+### Maintainer — Meshery (CNCF / Layer5)
+**Open Source** · Maintainer across Meshery repositories · *Graduated, 2026*
+
+Reviewed, merged and shipped code across the Meshery ecosystem, including Meshery UI, Meshery Cloud, Kanvas, Sistent and Schemas.
+
+- **300+** PRs reviewed, **100+** merged as maintainer, **100+** of my own PRs merged
+- Led the permission-shield migration across Meshery UI, Meshery Cloud and Kanvas, moving permission checks into Sistent so consumer repos only pass a permission key and action
+- Drove the "evaluate design" permission key end to end, from `meshery/schemas` to `meshery/meshery`
+- Fixed a multi-repo UI crash on the Registry page and documented gaps in the permission-key docs
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Technical Skills
 
 ### Frontend
@@ -81,10 +137,10 @@ I enjoy turning complex problems into clean, efficient systems and continuously 
 
 ## 🏆 Highlights
 
+- LFX Mentee (CNCF – Meshery, 2026 Term 2)  
+- Former Meshery maintainer · 300+ PRs reviewed  
 - Certified Meshery Contributor  
-- Active open-source contributor  
 - Regular competitive programming practice  
-- Consistent GitHub activity  
 
 ---
 ## 🚀 GitHub Activity
